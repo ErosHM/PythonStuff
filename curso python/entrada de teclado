@@ -1,0 +1,3 @@
+a=input("intriduce un numero")
+
+print("tu numero es ",a)
