@@ -18,7 +18,7 @@ def show_cats():
     pass
 
 
-def download_cats():
+def download_cats(folder):
     pass
 
 
@@ -37,7 +37,7 @@ def main():
     print("Se ha encontrado o creado la carpeta: "+folder)
 
     # descargar gatos
-    download_cats()
+    download_cats(folder)
 
     # mostrar gatos
     show_cats()
